@@ -1,0 +1,208 @@
+*{
+	font-family: 'Orbitron', sans-serif;
+    font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	background-color: white;
+}
+
+header{
+	max-width: 100%;
+	margin: auto;
+	margin-bottom: 10px;
+
+}
+
+#logo{
+	width: 300px;
+	margin-left: 170px;
+	font-size: 50px;
+	padding: 20px;
+	color:  #11130e ;
+}
+
+.amarelo{
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 10px;
+	color:  #FFC300 ;
+	background-color: black;
+}
+
+#cab{
+	min-width: 100%;
+	height: 200px;
+	background-color:   #FFC300 ;
+}
+
+.area{
+	max-width: 820px;
+	margin: auto;
+	height: 150px;
+	padding-top: 12px;
+}
+
+#menu{
+	color:  #FFC300 ;
+	height: 49px;
+	margin: auto;
+	max-width: 700px;
+	background-color:   #11130e;
+	padding-top: 38px;
+}
+
+#menu a:hover{
+	color:  #FFC300 ;
+}
+
+#menu a{
+	padding-left: 85px;
+	color: white;
+}
+
+.area img{
+	height: 150px;
+	width: 820px;
+}
+
+#area-principal{
+	width: 700px;
+	background-color:  #dfdfde;
+	margin: auto;
+	margin-bottom: 13px;
+}
+
+footer a{
+	color: yellow;
+}
+
+footer{
+	margin: auto;
+	font-size: 17px;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	max-width: 100%;
+	background-color: black;
+	flex-shrink: 0;
+}
+
+#area-principal h2{
+	margin-left: 50px;
+	padding: 10px;
+}
+
+#area-principal #data{
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#area-principal #descricao{
+	padding: 10px;
+}
+
+#footer{
+	margin: auto;
+}
+
+#formLogin{
+	background-color: #9e9c9c;
+	border: 1px solid black;
+	width: 820px;
+	margin: auto;
+	margin-bottom: 3px;
+	text-align: center;
+}
+
+#formLogin form h3{
+	padding: 20px;
+	text-align: center;
+}
+
+.inputf{
+	text-align: center;
+	font-size: 20px;
+	height: 30px;
+	width: 400px;
+	border-radius: 8px;
+}
+
+#erro{
+	padding-top: 100px;
+	height: 171px;
+	background-color: #9e9c9c;
+	border: 1px solid black;
+	width: 820px;
+	margin: auto;
+	margin-bottom: 3px;
+	text-align: center;
+}
+
+#erro a{
+	color: black;
+}
+
+#formLogin a{
+	color: red;
+}
+
+#cadPostagem{
+	background-color: #9e9c9c;
+	border: 1px solid black;
+	width: 700px;
+	margin: auto;
+	margin-bottom: 3px;
+	text-align: center;
+}
+
+#cadPostagem form h3{
+	padding: 20px;
+	text-align: center;
+}
+
+#area-principal img{
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	max-width: 700px;
+	margin: auto;
+}
+
+#tumb{
+	width: 700px;
+	margin: auto;
+}
+
+#descricao{
+	margin-left: 50px;
+}
+
+.btnler{
+	border-radius: 10px;
+	margin-left: 490px;
+	width: 200px;
+	background-color: #498f46;
+	height: 40px;
+}
+
+#detalhes{
+	background-color: white;
+	border: 1px solid black;
+	width: 700px;
+	margin: auto;
+	margin-bottom: 3px;
+}
+
+#detalhes img{
+	max-width: 700px;
+	margin: auto;
+}
+
+#descricao a{
+	width: 150px;
+}
